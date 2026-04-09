@@ -1,0 +1,2 @@
+top1000端口扫描工具
+在当前文件夹下运行python PScan.py
